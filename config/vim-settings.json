@@ -1,0 +1,18 @@
+{
+    "vim.hlsearch": true,
+    "vim.substituteGlobalFlag": true,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+        "before": ["leader", "/"],
+        "commands": [ { "command": ":nohl" }]
+        }
+    ],
+    "vim.handleKeys": {
+        "<C-c>": false
+    },
+    "vim.easymotion": true,
+    "vim.easymotionMarkerYOffset": 0,
+    "vim.easymotionMarkerFontFamily": "Fira Code",
+    "vim.easymotionMarkerFontSize": "12",
+    "vim.easymotionMarkerHeight": 16
+}
