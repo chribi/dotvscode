@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "window.titleBarStyle": "custom",
+    "window.newWindowDimensions": "maximized",
+    "editor.renderWhitespace": "boundary",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.copyOnSelection": true
+}
