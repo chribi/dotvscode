@@ -8,7 +8,7 @@ This is a configuration script for VS Code, installing some extensions and confi
 
 * VS Code >= 1.25 installed and in $PATH
 * node installed and in $PATH
-* [Fire Code](https://github.com/tonsky/FiraCode)
+* Font [Fira Code](https://github.com/tonsky/FiraCode) installed
 * git-bash when using Windows
 
 ## Structure
