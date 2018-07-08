@@ -1,0 +1,4 @@
+eg2.tslint
+johnpapa.angular2
+infinity1207.angular2-switcher
+esbenp.prettier-vscode
